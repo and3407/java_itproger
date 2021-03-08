@@ -1,0 +1,6 @@
+/.idea/
+/home_work_5.iml
+*.sass
+bin/
+admin/
+config/
